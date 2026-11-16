@@ -1,7 +1,7 @@
 # CS 26 Exam 2 – Technical Documentation
 ## Daily Sales Ledger
 
-**Student:** Surname, Firstname  
+**Student:** Mapantas, Najeeb C.  
 **Course:** CS 26 – Software Development Fundamentals  
 **Program type:** Python console program  
 **Coverage:** Lists, tuples, dictionaries, functions, modules, file handling, error handling, testing, and debugging
