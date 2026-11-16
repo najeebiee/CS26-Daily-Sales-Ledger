@@ -1,0 +1,6 @@
+# Python cache
+__pycache__/
+
+# Runtime data the program creates; sample_sales.json is the tracked sample
+sales.json
+sales.json.tmp
